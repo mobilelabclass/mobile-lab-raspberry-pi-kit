@@ -1,0 +1,15 @@
+{
+  "name": "mobile-lab-raspberry-pi-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bleno": "0.5.0",
+    "wiringpi-node" :"2.4.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
